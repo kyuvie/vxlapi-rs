@@ -5,7 +5,7 @@ Almost of this source code is using vxlapi.h in XL Driver Library as a reference
 Now this software implements minimum functions which can run **xlCANdemo** of XL Driver Library's samples.
 
 **NOTE:**
-- I'm not responsible for any accidents and losses which occures by this software.
+- I'm not responsible for any accidents and losses which occur by this software.
 - Sorry for my terrible English.
 
 
