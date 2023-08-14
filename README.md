@@ -23,5 +23,5 @@ https://www.vector.com/jp/ja/products/products-a-z/libraries-drivers/xl-driver-l
 
 4. Run
 ```
-cargo run --bin xlCANdemo sample 123
+cargo run --bin xlCANdemo -- sample 123
 ```
